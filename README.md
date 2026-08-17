@@ -185,4 +185,4 @@ azure-medicare-analytics-pipeline/
 
 ## Related Project
 
-- [Project 1 — Olist E-Commerce Pipeline](https://github.com/madhuravenkatesh761/olist-ecommerce-pipeline) — Brazilian e-commerce dataset, Medallion Architecture baseline on Azure Databricks
+- [Project 1 — Olist E-Commerce Pipeline](https://github.com/amarnath-003/olist-ecommerce-pipeline) — Brazilian e-commerce dataset, Medallion Architecture baseline on Azure Databricks
